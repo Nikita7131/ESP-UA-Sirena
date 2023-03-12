@@ -2,8 +2,8 @@
 
 
 
- Wifi LED IO2
+ Wifi LED D2
  
- Server LED IO17
+ Server LED D17
  
- Sirena GPIO IO4
+ Sirena GPIO D4

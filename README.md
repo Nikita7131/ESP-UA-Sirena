@@ -19,4 +19,6 @@
  ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/%D0%A1omponents%20Foto.png "Опису не буде")​
  
  
+ правила користування : https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/ReadMe%20Terms%20of%20use%20of%20the%20device.txt
+ Якщо Ви використовуєте цей прилад, ви автоматично погоджуєтесь з встановленими Правилами і приймаєте всю відповідальність, яка може бути на Вас покладена.
  

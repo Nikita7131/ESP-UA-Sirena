@@ -12,7 +12,7 @@
 
  ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/Photo_WebServer.jpg "Опису не буде")​
  
- ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/Schematic%20Sirena_ESP-UA_Sirena.png "Опису не буде")​
+ ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/Schematic_sirena_ESP-UA_Sirena.png "Опису не буде")​
  
  ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/Photo_PCB.png "Опису не буде")​
  

@@ -12,7 +12,7 @@
 
  ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/Photo_WebServer.jpg "Опису не буде")​
  
-  ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/photo_2023-03-10_22-36-15%20%E2%80%93%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpg"Опису не буде")​
+  ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/photo_2023-03-10_22-36-15%20%E2%80%93%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpg "Опису не буде")​
  
  ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/Schematic_sirena_ESP-UA_Sirena.png "Опису не буде")​
  

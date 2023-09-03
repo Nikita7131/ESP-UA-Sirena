@@ -1,5 +1,8 @@
 # ESP-UA-Sirena
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+
+
 Плата управління сиреною повітряної тривоги по всій території України. Дані беруться звідси : https://alerts.com.ua/
 
 Плата автоматично оновлюється на нові версії прошивки по wifi, тому якщо щось не робе пишіть сюди : https://t.me/Nikita7131 

@@ -20,9 +20,9 @@
 на виході буде постійно високим, наприклад в такому випадку можна підключити світлодіодну стрічку і можна зробити яке-небуть табло.
 
 
- ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/Schematic_sirena_ESP-UA_Sirena.png "Опису не буде")​
+ ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/Schematic_sirena_ESP-UA_Sirena.png"Опису не буде")​
  
- ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/Photo_PCB.png "Опису не буде")​
+​
  
  ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/%D0%A1omponents%20Foto.png "Опису не буде")​
  

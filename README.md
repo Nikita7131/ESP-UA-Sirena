@@ -20,7 +20,7 @@
 на виході буде постійно високим, наприклад в такому випадку можна підключити світлодіодну стрічку і можна зробити яке-небуть табло.
 
 
- ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/main/Schematic/Schematic_sirena_ESP-UA_Sirena.png "Опису не буде")​
+ ![alt tag](https://github.com/Nikita7131/ESP-UA-Sirena/blob/dcaa559430515e6f5a819dcd32012a0d964eb255/Schematic/Schematic_EspUaSirena_2023-09-03.png "Опису не буде")​
  
 ​
  
